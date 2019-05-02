@@ -1,0 +1,461 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <title>중고나라</title>
+    
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noindex, nofollow" />
+
+
+
+
+<meta name="referrer" content="always" />
+
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?2" />
+
+
+
+
+
+
+
+
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, target-densitydpi=medium-dpi, viewport-fit=cover" />
+
+<link rel="stylesheet" href="/static/css/mobileweb/Style/MyCafeStyle-1555308776000-656723.css" type="text/css">
+
+<script type="text/javascript" src="/static/js/mobileweb/core/MyCafeHeadScript-1551884109000-41210.js" charset="UTF-8"></script>
+
+<script type="text/javascript">
+document.domain='naver.com';
+</script>
+    
+<meta http-equiv='Content-Type' content='text/html;charset=utf-8'>
+<meta name="robots" content="noindex, nofollow">
+<meta name='viewport' content='width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no,target-densitydpi=medium-dpi'>
+
+
+
+	<meta name="decorator" content="MyCafe" />
+	<meta name="footerAppNClickValue" content="cfn.app" />
+	
+
+
+<link rel="stylesheet" href="/static/css/mobileweb/Style/Error-1555384112000-14753.css" type="text/css">
+
+
+
+
+</head>
+
+
+
+<body class=" " onload="orientationonChange();mCafeCommon.closeScroll();"
+      onorientationchange="orientationonChange();">
+
+
+<div class="u_skip">
+    <a href="#ct" onclick="var t=document.getElementById('ct');t.tabIndex=-1;t.focus();return false;" class="skip">본문 바로가기</a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header class='header ' id="hd">
+	
+	
+
+
+<div class='gnb' role='banner'>
+	<div class='gnb_l'>
+		<a href='/' class='gnb_home' onclick="nclk(this, 'gnb.home', '', '');"><span class='blind'>카페홈</span></a>
+	</div>
+	<h1><a href="/joonggonara" onclick="nclk(this, 'gnb.cafename', '', '');" id="cafeInfo"><span class="ellip">중고나라</span></a></h1>
+	
+	<div class='gnb_sc'>
+		<a href="/ArticleSearchList.nhn?search.clubid=10050146" class='gnb_search' role="button" onclick="nclk(this, 'gnb.cafesearch', '', '');"><span class='blind'>검색</span></a>
+	</div>
+	<div class='gnb_r'>
+		<a href='#' class="gnb_ham _click(MyCafeLayout|ShowMenuList) _stopDefault" role="button" onclick="nclk(this, 'gnb.cafeboard', '', '');"><span class='blind'>확장영역 열기</span></a>
+	</div>
+</div>
+	
+	
+	
+	
+	
+</header>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="dimmedLayer" class="dimmed"></div>
+<div id="sideMenuLayer" class="slide_right" style="display:none;">
+	<div id="sideMenuContainer" class="side_menu">
+	</div>
+</div>
+<hr>
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr />
+
+
+
+
+    
+    <div id='ct' class='error_content'>
+        <div class='error_content_body'>
+            <i class='icn warning'></i>
+            <h2>게시글이 존재하지 않거나 삭제되었습니다.</h2>
+        </div>
+        <div class='error_content_footer'>
+            <div class='btns'>
+                <a href='javascript:history.back();' class='btn btn_normal'><span>이전</span></a>
+                <a href='/' class='btn btn_primary'><span>카페홈</span></a>
+            </div>
+        </div>
+    </div>
+    
+
+
+
+
+
+
+<div id="boardSubscribeLayer" class="layer_subscribe layer_type_link" style="display:none;">
+	<div class="frame_layer">
+		<div class="inner">
+			<strong class="tit">게시판을 구독했습니다.</strong>
+			<p class="txt">네이버 MY구독에서 게시판의 새 글을 확인할 수 있습니다.</p>
+			<a href="https://m.naver.com/naverapp?cmd=onMenu&version=3&menuCode=MYFEED&subMenuCode=CAFE&showConfirm=false" class="link">네이버 MY구독 가기</a>
+		</div>
+		<a href="#" class="btn_close _click(CafeMenuFunction|HideBoardSubscribeLayer) _stopDefault" role="button">닫기</a>
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+
+
+
+<hr>
+
+<footer class='footer ' role='contentinfo'>
+	<div class="footer_inner">
+		
+		
+			<!-- 네이버앱 마이판에서 접근한 경우에는 앱으로보기 버튼 제거함. -->
+			
+				
+				
+				<div class="app_guide">
+					<a href="#" class="txt _click(CafeAppLauncherUtil|RunCafeApp|navercafe://) _stopDefault" onclick="oBAStatSender.sendByKey('MW_1152_166');"><strong>카페 앱으로 보기</strong><br> 알림으로 바로 확인하는 내 카페 소식!</a>
+				</div>
+				
+			
+		
+
+		
+			<div class="n_add nv-openmain" data-title="중고나라" data-type="CT" data-url="https://m.cafe.naver.com/joonggonara" onclick="oBAStatSender.sendByKey('MW_1153_166');">
+				<button>
+					<span class="ic_n_add"><i></i></span>
+					<span class="tx_n_add">네이버 메인에 <em>이 카페</em> 추가</span>
+				</button>
+			</div>
+		
+
+		<div class='page_top'>
+			<a href="#" class="btn_top _click(Utility|Top) _stopDefault" role="button" onclick="oBAStatSender.sendByKey('MW_1154_166');">맨위로</a>
+		</div>
+		
+		<div class='footer_snb'>
+			
+			
+			
+				
+					<a href='#' class="_click(LoginManager|Logout|https://m.cafe.naver.com/joonggonara) _stopDefault" onclick="nclk(this, 'fot.logout', '', '');">로그아웃</a>
+				
+				
+			
+			
+			
+			<a href='/CafeTerms.nhn' onclick="nclk(this, 'fot.agreement', '', '');">이용약관</a>
+			<a href='https://cafe.naver.com/joonggonara/587258505?viewType=pc' onclick="nclk(this, 'fot.gopc', '', '')">PC버전</a>
+			<a href='http://m.naver.com/services.html?f=svc.cafe' onclick="nclk(this, 'fot.sitemap', '', '');">전체서비스</a>
+		</div>
+		<div class='footer_lnb'>
+			<a href='https://m.help.naver.com/support/alias/cafe/cafem.naver' onclick="nclk(this, 'fot.help', '', '')">카페 고객센터</a>
+			<a href='/Privacy.nhn' onclick="nclk(this, 'fos.privacy', '', '')"><strong>개인정보처리방침</strong></a>
+			<a href='https://m.help.naver.com/support/alias/cafe/cafem1.naver' onclick="nclk(this, 'fos.error', '', '')" class='last'>오류신고</a>
+		</div>
+		<address class='copyright'>&copy;<a href='http://www.navercorp.com' onclick="nclk(this, 'fot.nhncorp', '', '')">NAVER Corp.</a></address>
+	</div>
+</footer>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+var g_sUserId = 'remonie7';
+var g_sCafeId = '10050146';
+var g_sCafeUrl = 'joonggonara';
+
+var g_sCafeMainUrl = 'https://cafe.naver.com';
+var g_sCafeMobileWebUrl = 'https://m.cafe.naver.com';
+var g_sNoteSendUrl = 'https://m.note.naver.com/mobile/mobileSendNoteForm.nhn?reply=1&targetUserId=';
+var g_sUploadDomain = window.location.protocol === 'https:' ? 'https://up.cafe.naver.com' : 'http://up.cafe.naver.com';
+var g_sCafeFilesDomain = 'http://cafefiles.naver.net';
+var g_sCafeFilesHttpsDomain = 'https://cafefiles.pstatic.net';
+var g_sCafeThumbDomain = 'https://cafethumb.pstatic.net';
+var g_sMCafeThumbDomain = 'https://mcafethumb-phinf.pstatic.net';
+var g_sGfmarketDomain = 'http://m.gfmarket.naver.com';
+var g_sGfmarketThumbnailDomain = 'https://storep-phinf.pstatic.net';
+var g_sPhotoInfraUploadDomain = 'cafe.upphoto.naver.com';
+var g_sBlogUrl = 'http://m.blog.naver.com';
+var g_sDThumbUrl = 'https://dthumb-phinf.pstatic.net/?src=';
+var g_sLikeDomain = 'https://cafe.like.naver.com';
+var g_sNpayPurchaseDetailUrl = 'https://m.pay.naver.com/o/orderStatus/';
+var g_sNpaySaleDetaiUrl = 'https://m.pay.naver.com/o/saleStatus/';
+var g_sBAStatDomain = 'https://scv.band.us';
+
+var g_sLoginUrl = 'https://nid.naver.com/nidlogin.login?svctype=262144&url=';
+var g_sLogoutUrl = 'https://nid.naver.com/nidlogin.logout?svctype=262144&url=';
+var g_sAutoComplateDomain = 'https://mac.search.naver.com/mobile/ac';
+var g_sNaverStatMobileUiUrl = 'https://cafe.stat.naver.com/m/cafe';
+
+var g_sEncodedRequestUrl = 'http%3A%2F%2Fm.cafe.naver.com%2FArticleRead.nhn%3Fclubid%3D10050146%26articleid%3D587258505%26page%3D1%26boardtype%3DL%26menuid%3D339';
+</script>
+
+
+
+
+<script type="text/javascript" src="/static/js/mobileweb/core/mycafe/MyCafeCommonScript-1555416498000-465801.js" charset="UTF-8"></script>
+
+
+<script type="text/javascript">
+var LH = new mCafeCommon.LH_create();
+jQuery(window).on('load', jQuery.proxy(mCafeCommon.LH_exec, this));
+LH.add("mCafeCommon.closeScroll()");
+BMR.run();
+
+var oCafeAppLauncher = new nhn.AppLauncher({
+    "sAPPName" : "네이버 카페",
+    "sInstallURLForIOS" : "http://itunes.apple.com/app/id420615104?mt=8",
+    "sInstallURLForANDROID" : "market://details?id=com.nhn.android.navercafe"
+});
+
+var oCafeAppLauncherUtil = new CafeAppLauncherUtil({
+    isIPhone : false
+});
+
+
+var cafeSecedeManager = new CafeSecedeManager({clubId: '10050146'});
+
+
+
+
+
+
+</script>
+
+
+    <script type="text/javascript" src="https://openmain.pstatic.net/js/openMain.js"></script>
+
+
+
+<script>jQuery.noConflict();</script>
+
+
+
+
+
+<script type="text/javascript" src="/static/js/mobileweb/common/bastat/ScriptBAStatLog-1554368962000-31960.js" charset="UTF-8"></script>
+
+
+<script type="text/javascript">
+	var oBAStatSender = new cafe.BAStatSender({
+		oClient : {
+			service_id: 'cafe',
+			user_key: 'remonie7',
+			os_name: '__UNKNOWN__',
+			os_ver: '-1',
+			app_ver: '-1',
+			country: 'XX',
+			language: 'xx',
+			device_id: '5EKZYI2IMIFVW',
+			device_model: '__UNKNOWN__',
+			product: 'mweb'
+		},
+        sEnv: 'real'
+	});
+</script>
+
+
+
+
+
+
+<script type="text/javascript">
+var oToastManager = new ToastManager();
+var oBAStat = new BAStatSenderManager({
+    oBAStatSender : oBAStatSender
+});
+var oMyCafeLayout = new MyCafeLayout({
+    nClubId: '10050146',
+    nMenuId: '',
+    bCafeMember: true,
+    
+    sBoardType: 'NORMAL',
+    welDimmedLayer: jQuery('#dimmedLayer'),
+    welSideMenuLayer: jQuery('#sideMenuLayer'),
+    nRecentNoticeAddDate: null,
+    oToastManager : oToastManager,
+    oBAStatSender : oBAStat
+});
+</script>
+
+
+
+
+
+<script type="text/javascript">
+/**
+ * MobileGuestBanner와 관련된 UI 로직을 정의한다.
+ * 
+ * @author aphros
+ * @requires jQuery, egjs, cafe.EventBinder
+ */
+var MobileGuestBanner = eg.Class.extend(cafe.EventBinder, {
+	name : 'MobileGuestBanner',
+	_welBanner : null,
+	_welHeader : null,
+
+	construct : function(htParam) {
+		this._setParam(htParam);
+
+		if (!this._welBanner || this._welBanner.length <= 0) {
+			return;
+		}
+		this._setEvent(window, 'scroll', this._onScroll);
+	},
+	
+	_setParam : function(htParam) {
+		this._welBanner = htParam.welBanner;
+		this._welHeader = htParam.welHeader;
+	},
+	
+	_onScroll : function(we) {
+		var nScrollTop = jQuery(window).scrollTop();
+
+		if (nScrollTop >= this._welHeader.height()) {
+			this._welHeader.addClass("fix");
+		} else {
+			this._welHeader.removeClass("fix");
+		}
+	} 
+});
+var oMobileGuestBanner = new MobileGuestBanner({
+	welBanner : jQuery('#mobileGuestBanner'),
+	welHeader : jQuery('#hd')
+});
+</script>
+
+
+<script type="text/javascript">
+
+</script>
+
+
+
+    
+
+
+
+
+
+
+
+
+
+</body>
+</html>
