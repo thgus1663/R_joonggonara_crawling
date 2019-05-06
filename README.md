@@ -17,11 +17,13 @@
 
   *[네이버카페 html 제외 공지 글] : (https://cafe.naver.com/cafesupport/123313)*
 
+
 - pc버전에는 있던 게시글 번호 페이지가 모바일버전에서는 더보기 버튼으로 되어있다.
 <div>
 <img width="400"  src="https://user-images.githubusercontent.com/49008642/57233466-a8ecc400-7059-11e9-882e-5a73ec3a3b1f.PNG">
 <img width="400"  src="https://user-images.githubusercontent.com/49008642/57233469-aab68780-7059-11e9-8509-3e1718c503f6.PNG">
 </div>
 -> 왼쪽은 pc, 오른쪽은 모바일
+
 
 - RSelenium을 이용해 데이터를 가져오는 중에 특정 글이 삭제된 글이라면 코드 실행이 멈춰버린다.
