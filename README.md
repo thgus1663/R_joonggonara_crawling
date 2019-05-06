@@ -1,6 +1,7 @@
 # 1. 어떤 데이터인가?
 
 네이버 카페 [중고나라] (https://cafe.naver.com/joonggonara.cafe?iframe_url=/ArticleList.nhn%3Fsearch.clubid=10050146%26search.boardtype=L%26viewType=pc)
+<img width="826" alt="1" src="https://user-images.githubusercontent.com/49008642/57233117-016f9180-7059-11e9-849f-83640ba0985d.PNG">
 > 수많은 중고거래 사이트 중 가장 활발하게 거래되고 있는 곳.
 >> 수입명품(가방, 의류, 신발, 잡화 등), 악세서리, 남녀의류, 기타의류(교복, 잠옷, 작업복 등), 미용(화장품, 향수 등), 출산 및 육아용품, 중고폰, 상품권, 티켓(영화, 연극, 공연 등), 연예인 굿즈, 여행 및 여가(티켓, 용품), 컴퓨터, 카메라, 자전거, 생활용품, 가구, 도서, 부동산 매물 등 거의 모든 종류의 중고품이 거래되는 사이트이다.
 
