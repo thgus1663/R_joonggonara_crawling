@@ -63,8 +63,8 @@
 
 - pc버전에는 있던 게시글 번호 페이지가 모바일버전에서는 더보기 버튼으로 되어있다.
 <div>
-<img width="600"  src="https://user-images.githubusercontent.com/49008642/57233466-a8ecc400-7059-11e9-882e-5a73ec3a3b1f.PNG">
-<img width="600"  src="https://user-images.githubusercontent.com/49008642/57233469-aab68780-7059-11e9-8509-3e1718c503f6.PNG">
+<img width="400"  src="https://user-images.githubusercontent.com/49008642/57233466-a8ecc400-7059-11e9-882e-5a73ec3a3b1f.PNG">
+<img width="400"  src="https://user-images.githubusercontent.com/49008642/57233469-aab68780-7059-11e9-8509-3e1718c503f6.PNG">
 </div>
   
 
