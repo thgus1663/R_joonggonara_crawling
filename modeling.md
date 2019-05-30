@@ -15,7 +15,7 @@
 ## 더치트 크롤링 
 ![캡처](https://user-images.githubusercontent.com/49008642/58455380-79167500-815c-11e9-9afa-39f2f55f1157.PNG)
 
-- 상세 
+- 상세 페이지
 ![제목 없음](https://user-images.githubusercontent.com/49008642/58461954-cea64e00-816b-11e9-961a-89314b69b508.png) 
 
 ![제목 없음](https://user-images.githubusercontent.com/49008642/58462719-6a848980-816d-11e9-8765-394b38aaa8a2.png)
