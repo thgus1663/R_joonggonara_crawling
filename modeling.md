@@ -17,3 +17,7 @@
 ![제목 없음](https://user-images.githubusercontent.com/49008642/58599630-16d48600-82bc-11e9-8142-d49bae581dbc.png)
 - 상세 페이지
 ![제목 없음](https://user-images.githubusercontent.com/49008642/58461954-cea64e00-816b-11e9-961a-89314b69b508.png) 
+
+
+##### <중고나라>
+![제목 없음](https://user-images.githubusercontent.com/49008642/58600604-42f20600-82c0-11e9-9160-86f87aa57f77.png)
