@@ -1,3 +1,7 @@
+# 중고나라 사기 얼마나 심각한가?
+> 중고나라에 게시되는 수많은 글 가운데 사기는 얼마나 많을까. 경찰청에서 발행한 ‘2018년 사이버위협 분석보고서’에 따르면, 인터넷사기(11만 2,000건)는 전체 사이버범죄(14만 9,604건) 발생 건수의 74.9% 를 차지하고 있다.  구매자의 입장인 우리가 판매한다는 게시글을 읽고 사기인지 아닌지 구분할 수 있다면 사기를 당할 걱정이 없을 것이다. 그래서 사기글을 올리는 사람들에게 특정 유형이 있는지 알아보고자 했다. 
+
+![1](https://user-images.githubusercontent.com/49008642/58746571-9ae46480-849a-11e9-8bca-6016a4e6aece.PNG)
 ![2](https://user-images.githubusercontent.com/49008642/58746569-9ae46480-849a-11e9-8371-c66c7bd93ccc.PNG)
 ![캡처](https://user-images.githubusercontent.com/49008642/58746570-9ae46480-849a-11e9-912a-18da6d782caf.PNG)
-![1](https://user-images.githubusercontent.com/49008642/58746571-9ae46480-849a-11e9-8bca-6016a4e6aece.PNG)
+
