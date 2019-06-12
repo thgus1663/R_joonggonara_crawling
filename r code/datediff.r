@@ -88,3 +88,8 @@ datediff=na.omit(datediff)
 hist(datediff,main="이상값을 제거한 히스토그램")
 
 summary(datediff)
+
+############## 하루 평균 더치트 신고건 수 ##############
+barplot(table(total$upload), main="하루에 올라오는 더치트 게시글 수")
+
+mean(table(total$upload))
