@@ -37,20 +37,20 @@
 
 ### 기대했던대로 더치트와 중고나라를 비교해서 중고나라에서 사기 글을 찾는 것이 가능할까?  
 ▶ 중고나라에 아이디 일부를 검색해보니 운이 좋게도(?) 삭제되어있지 않았던 글
-> <더치트에서 크롤링한 자료>  
+<더치트에서 크롤링한 자료>  
 ![1](https://user-images.githubusercontent.com/49008642/58746571-9ae46480-849a-11e9-8bca-6016a4e6aece.PNG)  
 
-> <중고나라에 아이디 일부를 검색해 본 결과>
+<중고나라에 아이디 일부를 검색해 본 결과>
 ![2](https://user-images.githubusercontent.com/49008642/58746569-9ae46480-849a-11e9-8371-c66c7bd93ccc.PNG)  
 
 > <사기 신고된 거래 게시글> 
 ![캡처](https://user-images.githubusercontent.com/49008642/58746570-9ae46480-849a-11e9-912a-18da6d782caf.PNG)  
 
 ▶ 중고나라와 더치트 일치 예시
-> < 더치트 >  
+< 더치트 >  
 ![제목 없음](https://user-images.githubusercontent.com/49008634/59352873-b97d1200-8d5c-11e9-9536-9641fa1f2ffe.png)  
 
-> < 중고나라 >
+< 중고나라 >
 ![제목 없음1](https://user-images.githubusercontent.com/49008634/59352891-bf72f300-8d5c-11e9-9070-bb24e46cca18.png)  
 
 
