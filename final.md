@@ -21,6 +21,13 @@
 > <사기 신고된 거래 게시글> 
 ![캡처](https://user-images.githubusercontent.com/49008642/58746570-9ae46480-849a-11e9-912a-18da6d782caf.PNG)  
 
+▶ 중고나라와 더치트 일치 예시
+> < 더치트 >  
+![제목 없음](https://user-images.githubusercontent.com/49008634/59352873-b97d1200-8d5c-11e9-9536-9641fa1f2ffe.png)  
+
+> < 중고나라 >
+![제목 없음1](https://user-images.githubusercontent.com/49008634/59352891-bf72f300-8d5c-11e9-9070-bb24e46cca18.png)  
+
 
 # 생각해봐야 할 문제점
 #### 1. "중고나라 : 아이디는 모두 있지만 핸드폰번호는 적다"  vs  "더치트 : 핸드폰번호는 많지만 아이디는 적다"
