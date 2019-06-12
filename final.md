@@ -1,4 +1,4 @@
-# ○ 중고나라와 더치트 비교 ○
+# ◎ 중고나라와 더치트 비교 ◎
 ### 중고나라 사기율은 얼마나 될까?
 ![image](https://user-images.githubusercontent.com/49008642/59329005-c5e77780-8d28-11e9-90d4-b82521dded00.png)
 
