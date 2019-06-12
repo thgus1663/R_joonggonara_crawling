@@ -42,7 +42,7 @@
 ![제목 없음](https://user-images.githubusercontent.com/49008642/59331553-31344800-8d2f-11e9-9226-27a677fd6716.png)  
 ![1](https://user-images.githubusercontent.com/49008642/59331570-3beedd00-8d2f-11e9-9674-c0845593cc7b.png)  
 ![2](https://user-images.githubusercontent.com/49008642/59331578-427d5480-8d2f-11e9-8b11-23cc9b6e757a.png)
-> ☞ 텍스트마이닝 필요!  
+> ☞ 텍스트 분석 필요!  
 
 #### 3. 가격도 비교하는데 도움이 될 것이라 생각했지만..
 > 판매자가 올린 가격대로 다 입금해서 사기를 당한 경우도 있고 일부만 선입금한 후 사기를 당해 신고한 경우도 있어 더치트에서의 피해금액과 중고나라에서의 판매가격으로 비교하는 것에는 어려움이 있다.
