@@ -43,7 +43,7 @@
 <중고나라에 아이디 일부를 검색해 본 결과>
 ![2](https://user-images.githubusercontent.com/49008642/58746569-9ae46480-849a-11e9-8371-c66c7bd93ccc.PNG)  
 
-> <사기 신고된 거래 게시글> 
+<사기 신고된 거래 게시글> 
 ![캡처](https://user-images.githubusercontent.com/49008642/58746570-9ae46480-849a-11e9-912a-18da6d782caf.PNG)  
 
 ▶ 중고나라와 더치트 일치 예시
