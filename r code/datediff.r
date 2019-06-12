@@ -8,7 +8,7 @@ pjs <- wdman::phantomjs()
 
 Sys.sleep(3)
 remDr <- remoteDriver(browserName = "phantomjs", port = 4567L)
-remDr$open() #??? a ????
+remDr$open()
 
 cheaturl="https://thecheat.co.kr/rb/?m=bbs&bid=cheat&page_num=&search_term=&se=&p="
 
@@ -36,8 +36,8 @@ for(i in 1:length(pages)){
 
 
 
-incident=c()
-upload=c()
+incident=c() #ì‚¬ê±´ë°œìƒì¼
+upload=c() #ì—…ë¡œë“œì¼
 for(j in 1:length(pageone)){
   remDr$navigate(pageone[j])
   Sys.sleep(2)
@@ -62,9 +62,9 @@ for(j in 1:length(pageone)){
 remDr$close()
 
 total=data.frame(incident=incident,upload=upload, stringsAsFactors = F)
-total=na.omit(total) #ÀÌ»ó°ªÀÌ ÀÖ´Â Çà Á¦°Å
+total=na.omit(total) #ì´ìƒê°’ì´ ìˆëŠ” í–‰ ì œê±°
 
-# .À» -·Î ¹Ù²Ş(³¯Â¥ ÇÔ¼ö¸¦ ¾²±â À§ÇØ¼± ³¯Â¥°¡ -·Î ¿¬°á µÇ¾îÀÖ¾î¾ß ÇÑ´Ù)
+# .ì„ -ë¡œ ë°”ê¿ˆ(ë‚ ì§œ í•¨ìˆ˜ë¥¼ ì“°ê¸° ìœ„í•´ì„  ë‚ ì§œê°€ -ë¡œ ì—°ê²° ë˜ì–´ìˆì–´ì•¼ í•œë‹¤)
 total$incident=gsub("\\.","-",total$incident)
 total$upload=gsub("\\.","-",total$upload)
 
@@ -73,18 +73,18 @@ datediff=as.Date(total$upload)-as.Date(total$incident)
 quantile(datediff,c(0,0.25,0.5,0.75,1),na.rm=T)
 mean(datediff,na.rm=T)
 
-datediff=as.numeric(datediff[datediff>=0]) # À½¼ö´Â Àı´ë ºÒ°¡´É ÇÏ¹Ç·Î Á¦¿Ü(1158°³)
+datediff=as.numeric(datediff[datediff>=0]) # ìŒìˆ˜ëŠ” ì ˆëŒ€ ë¶ˆê°€ëŠ¥ í•˜ë¯€ë¡œ ì œì™¸(1158ê°œ)
 hist(datediff)
 
-############## ÀÌ»óÁ¡ Ã£±â##############
+############## ì´ìƒì  ì°¾ê¸° ################
 outlier=boxplot(datediff)
 
-# 19ÀÌ»óÀº ÀÌ»óÁ¡ÀÌ°í, NA·Î ¹Ù²Ş
+# 19ì´ìƒì€ ì´ìƒì ì´ê³ , NAë¡œ ë°”ê¿ˆ
 datediff=ifelse(datediff>18,NA,datediff)
 
-# NA°¡ Æ÷ÇÔµÈ Çà Á¦°Å
+# NAê°€ í¬í•¨ëœ í–‰ ì œê±°
 datediff=na.omit(datediff)
 
-hist(datediff,main="ÀÌ»ó°ªÀ» Á¦°ÅÇÑ È÷½ºÅä±×·¥")
+hist(datediff,main="ì´ìƒê°’ì„ ì œê±°í•œ íˆìŠ¤í† ê·¸ë¨")
 
 summary(datediff)
